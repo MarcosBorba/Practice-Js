@@ -1,0 +1,13 @@
+
+//Check if it is a polimdrome and return true or false:
+function checkPalindrome(inputString) {
+  let rvStr = inputString.split('').reverse().join('');
+
+  let isPalindrome = false;
+
+  if (rvStr == inputString) {
+    isPalindrome = true;
+  }
+
+  return isPalindrome;
+}
