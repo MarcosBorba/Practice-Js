@@ -1,2 +1,2 @@
 # Practice-Js
-Practices of study
+Practices of study with JavaScript
